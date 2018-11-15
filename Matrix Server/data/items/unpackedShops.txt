@@ -1,0 +1,1 @@
+//key money boolean(general store) - Name - item quantity and repeat
